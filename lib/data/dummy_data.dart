@@ -54,7 +54,7 @@ const availableCategories = [
     id: 'c10',
     title: 'Summer',
     color: Colors.teal,
-  ),
+  )
 ];
 
 const dummyMeals = [
